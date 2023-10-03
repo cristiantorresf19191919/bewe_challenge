@@ -31,7 +31,7 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^5.9.0",
     "@testing-library/react": "^10.2.1",
-    "cypress": "^4.8.0",
+    "cypress": "^4.12.1",
     "eslint": "^6.8.0",
     "eslint-config-airbnb": "^18.1.0",
     "eslint-plugin-import": "^2.21.1",
@@ -43,7 +43,7 @@
     "jest-extended": "^0.11.5",
     "prettier": "^2.0.5",
     "react-scripts": "^3.4.1",
-    "start-server-and-test": "^1.11.0"
+    "start-server-and-test": "^1.15.4"
   },
   "eslintConfig": {
     "extends": "react-app"
